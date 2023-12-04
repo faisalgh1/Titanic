@@ -40,7 +40,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ````
-   git clone <github.com/faisalgh1/Titanic>
+   git clone github.com/faisalgh1/Titanic
    ```
 
 2. Install the required dependencies by running:
@@ -89,4 +89,4 @@ I hope you find this Titanic Data Analysis project both educational and enjoyabl
 Feel free to reach out if you have any questions or need further assistance. Happy exploring!
 
 Best regards,
-[Faisal]
+Faisal
