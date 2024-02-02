@@ -8,7 +8,7 @@ The Titanic dataset is a well-known dataset in the data science community, often
 
 ## Project Goals
 
-The main goals of this project are as follows:
+The main goals of the project are as follows:
 
 1. Explore the Data: Get familiar with the dataset, examine its structure, and gain insights into the characteristics of the passengers.
 
